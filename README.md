@@ -1,2 +1,2 @@
-# Tema
-Tema termux
+# Tema termux
+
