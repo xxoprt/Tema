@@ -5,7 +5,7 @@
 
 
 
-#Settings pertama dan penginstallan
+# Settings pertama dan penginstallan
 
 
 pkg update && pkg upgrade && pkg install git
@@ -53,7 +53,7 @@ di x='Ganteng:v' di situ ganti apa aja x='Terserah kalian'
 Teken tombol CTRL dan pencet huruf x trus y trus pencet tombol enter
 
 
-#langkah 2
+# langkah 2
 
 Buka apk ZArchiver
 
@@ -67,7 +67,7 @@ Salin semua
 
 Langjut langkah 3
 
-#langkah 3
+# langkah 3
 cd $HOME
 
 
@@ -89,6 +89,6 @@ PS1='\033[1;34m\]╔━━\[\033[1;31m\]≼\[\033[1;90m\]Nama kalian ganti ok \[
 
 Teken tombol CTRL dan pencet huruf x trus y trus pencet tombol enter
 
-#langkah terakhir 
+# langkah terakhir 
 kalian tinggal keluar dari termux
 Atau exit di termux lalu login lagi
